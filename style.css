@@ -413,6 +413,16 @@ nav .caret {
     margin: 0 5px;
 }
 
+.citation {
+    font-size: 19px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.citation_auteur {
+    font-size: 14px;
+}
+
 .dropdown-menu .dropdown-menu {
     top: -8px;
     left: 100%;
